@@ -1,3 +1,5 @@
+![CI](https://github.com/Lindir01/ci-cd-lab-2026/actions/workflows/ci.yml/badge.svg)
+
 # CI/CD with GitHub Actions — Hands-On Lab
 
 > **Course**: CI/CD with GitHub Actions: Level Up Your Code Game!
