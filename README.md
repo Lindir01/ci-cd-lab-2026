@@ -1,4 +1,4 @@
-![CI](https://github.com/Lindir01/ci-cd-lab/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Lindir01/ci-cd-lab-2026/actions/workflows/ci.yml/badge.svg)
 
 # CI/CD with GitHub Actions — Hands-On Lab
 
